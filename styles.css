@@ -1,0 +1,88 @@
+body{
+    background-color:White;
+    font :"Helvetica";
+    font-size: 1rem;
+
+
+    color: #212529;
+
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+    text-align: left;
+    padding:100px;
+}
+
+form{
+    border:1px;
+    border-radius:0.3rem;
+    padding:0.9rem;
+
+}
+
+img{
+    max-width:30%;
+    max-height:10%;
+
+}
+
+
+.Cabecalho{
+
+    height:40px;
+    width:100%;
+    background-color: #000;
+    color:#fff;
+    font:Helvetica;
+    margin-bottom:2rem;
+    padding:2rem 1rem;
+    align-items: center;
+    display:flex;
+
+
+}
+
+
+
+.Container{
+
+
+    width:33%;
+
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.ContainerTxt{
+
+
+    margin-top:100px;
+
+
+    width:33%;
+
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+
+}
+
+
+
+.Rodape{
+    height:50px;
+
+    background-color:#000;
+    color:#fff;
+    font:Helvetica;
+    padding:2rem 1rem;
+    text-align:center;
+
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+
+}
+
